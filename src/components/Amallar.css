@@ -1,0 +1,50 @@
+.id{
+    width: 300px;
+height: 45px;
+background: #EAF0FF;
+border-radius: 20px;
+border: none;
+outline: none;
+margin-left: 30px;
+}
+.main-top{
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+.add{
+    background: #325ECD;
+border-radius: 20px;
+width: 192px;
+height: 45px;
+color: white;
+border: none;
+cursor: pointer;
+}
+.Id{
+    margin-top: 40px;
+    margin-right: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.main-bottom{
+    padding-top: 30px;
+   display: flex;
+   justify-content: center;
+   overflow: scroll;
+   height: 550px;
+}
+tr{
+  display: flex;
+  justify-content: space-between;
+    background: #FFFFFF;
+border: 1px solid #D3E0FF;
+border-radius: 15px;
+padding: 20px;
+margin-top: 5px;
+}
+table{
+    border-collapse: collapse;
+    width: 76vw;
+    border: none;
+}
